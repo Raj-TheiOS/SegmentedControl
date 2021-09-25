@@ -1,0 +1,2 @@
+# SegmentedControl
+ UISegmentControl Basic Example
